@@ -11,5 +11,5 @@ https://app.swaggerhub.com/apis/ayciceksamet/VideoConversion/1.0.0
 
 
 <p align="center">
-<img  width="800" height="600" src="/1.png">
+<img  width="1200" height="500" src="/1.png">
 </p>
