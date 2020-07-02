@@ -7,7 +7,7 @@ In this project, we have used these technologies :
 - Spring Boot
 - FFmpeg Library
 
-https://app.swaggerhub.com/apis/ayciceksamet/VideoConversion/1.0.0
+https://app.swaggerhub.com/apis-docs/ayciceksamet/VideoConversion/1.0.0
 
 
 <p align="center">
